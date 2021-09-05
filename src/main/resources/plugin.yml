@@ -1,0 +1,6 @@
+name: FancyMarket
+version: '${version}'
+main: com.daxton.fancymarket.FancyMarket
+api-version: 1.16
+prefix: FancyMarket
+authors: [ s99889989 ]
