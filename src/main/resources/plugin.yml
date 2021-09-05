@@ -1,6 +1,12 @@
 name: FancyMarket
 version: '${version}'
 main: com.daxton.fancymarket.FancyMarket
-api-version: 1.16
+api-version: 1.13
 prefix: FancyMarket
+softdepend: [FancyCore]
 authors: [ s99889989 ]
+description: Items market.
+commands:
+  fancymarket:
+    description: Basic instructions.
+    aliases: fmarket
